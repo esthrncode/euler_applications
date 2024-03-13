@@ -12,5 +12,7 @@ Our goal is to make sure everyone gets their vitamins regularly throughout the y
 * This method isn't just for math or health care; that fits best within your time frame; it's a way to make any plan more organized and effective. 
 * You can use this strategy to make better schedules, save money, or even plan your study time more efficiently.
 
+[To solve this problem](code.py)
+
 #
 **Next**: [Problem 02 Analogy](../02problem_growth_bacterial)
