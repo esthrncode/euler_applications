@@ -15,4 +15,4 @@ Our goal is to make sure everyone gets their vitamins regularly throughout the y
 [To solve this problem](code.py)
 
 #
-**Next**: [Problem 02 Analogy](../02problem_growth_bacterial)
+**Next**: [Problem 02 Analogy](../02problem_bacterial_growth)

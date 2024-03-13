@@ -14,6 +14,7 @@ I've been solving math puzzles on Project Euler, and every time I crack one, I l
 
 For each math problem I've worked on, there's a little story:
 - [Vitamin Distribution](01problem_vitamin_distribution): Calculating optimal days for Vitamin C and D distribution mimics efficient planning in public health initiatives.
+- [Growth Bacteria](02problem_bacterial_growth):The researcher is particularly interested in those moments when the bacterial count is even, as it might indicate a unique genetic expression or reaction to environmental conditions.
 
 #
  Let's keep exploring and learning together.
