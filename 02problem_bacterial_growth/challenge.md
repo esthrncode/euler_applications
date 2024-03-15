@@ -12,9 +12,11 @@ Now, suppose the even-numbered days are special for our bacteria, maybe they gro
 
 - **Energy Consumption**: Identifying patterns in energy use can help households and businesses reduce costs and environmental impact, much like spotting and leveraging efficiencies in sequences.
 
-- **Project Management**: In managing projects, recognizing the sequence of tasks and their dependencies allows for efficient scheduling and resource allocation, minimizing downtime and maximizing productivity.
+- **Epidemiologyt**: Understanding how diseases spread through populations can sometimes reflect predictable patterns. Applying sequence analysis could enhance forecasting models for outbreaks and inform public health strategies.
+
+
 
 [To solve this problem](code.py)
 
 #
-**Next**: 
+**Next**: [Medical Recored Matching](../04problem_medical_record_matching)
